@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+ 🔭 I’m currently working heavily on my dissertation to be finished 2020.
+ 
+ 👯 Afterwards I'm looking to collaborate on projects in the field of Computational Neuroscience, in particular numerical simulations on HPC infrastructure.
+
 <!--
 **stephanmg/stephanmg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
