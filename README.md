@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=stephanmg&theme=onedark)](https://github.com/stephanmg?tab=repositories&q=&type=source&language=)
+
  🔭 I’m currently working heavily on my dissertation to be finished 2020.
  
 Afterwards I'm looking to collaborate on projects in the field of Computational Neuroscience, in particular numerical simulations on HPC infrastructure. Contact information will be made available here when my website and blog are completed.
