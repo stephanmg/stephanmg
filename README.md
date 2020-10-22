@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+___
 [![trophy](https://github-profile-trophy.vercel.app/?username=stephanmg&theme=onedark&row=1&column=6)](https://github.com/stephanmg?tab=repositories&q=&type=source&language=)
 
 ___
