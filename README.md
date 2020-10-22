@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=stephanmg&theme=onedark&row=2&column=3)](https://github.com/stephanmg?tab=repositories&q=&type=source&language=)
+[![trophy](https://github-profile-trophy.vercel.app/?username=stephanmg&theme=onedark&row=1&column=6)](https://github.com/stephanmg?tab=repositories&q=&type=source&language=)
 
  🔭 I’m currently working heavily on my dissertation to be finished 2020.
  
