@@ -6,7 +6,7 @@ ___
 ___
  🔭 ~~I’m currently working heavily on my dissertation to be finished 2020.~~ DONE!
  
-I'm looking to collaborate on projects in the field of Computational Neuroscience, in particular numerical simulations on HPC infrastructure using mixed-compute infrastructure.. 
+I'm looking to collaborate on projects in the field of Computational Neuroscience, in particular numerical simulations on HPC infrastructure using mixed-compute infrastructure...
 Contact information has been made available here and will be made available on my website and blog when they are completed.
 ___
 <!--
