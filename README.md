@@ -4,9 +4,10 @@ ___
 [![trophy](https://github-profile-trophy.vercel.app/?username=stephanmg&theme=onedark&row=1&column=7)](https://github.com/stephanmg?tab=repositories&q=&type=source&language=)
 
 ___
- 🔭 I’m currently working heavily on my dissertation to be finished 2020.
+ 🔭 ~~I’m currently working heavily on my dissertation to be finished 2020.~~ DONE!
  
-Afterwards I'm looking to collaborate on projects in the field of Computational Neuroscience, in particular numerical simulations on HPC infrastructure. Contact information will be made available here when my website and blog are completed.
+I'm looking to collaborate on projects in the field of Computational Neuroscience, in particular numerical simulations on HPC infrastructure using mixed-compute infrastructure.. 
+Contact information has been made available here and will be made available on my website and blog when they are completed.
 ___
 <!--
 **stephanmg/stephanmg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
