@@ -1,13 +1,11 @@
-### Hi there 👋
+### Hi there 👋 - I am an Applied Mathematician working at the interface of Neuroscience, Molecular Biology and Computational Sciences
+
+I'm looking to collaborate on projects in the field of Computational Neuroscience and Applied Mathematics, in particular using numerical methods of simulations and modelling using partial differential equations on high-performance infrastructure or mixed-compute infrastructure using GPUs.
+
+Contact information will be made available soon below.
 
 ___
 [![trophy](https://github-profile-trophy.vercel.app/?username=stephanmg&theme=onedark&row=1&column=7)](https://github.com/stephanmg?tab=repositories&q=&type=source&language=)
-
-___
- 🔭 ~~I’m currently working heavily on my dissertation to be finished 2020.~~ DONE!
- 
-I'm looking to collaborate on projects in the field of Computational Neuroscience, in particular numerical simulations on HPC infrastructure using mixed-compute infrastructure...
-Contact information has been made available here and will be made available on my website and blog when they are completed.
 ___
 <!--
 **stephanmg/stephanmg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
