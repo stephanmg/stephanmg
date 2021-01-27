@@ -1,4 +1,6 @@
-### Hello there 👋 - I am an Applied Mathematician working at the interface of Neuroscience, Molecular Biology and Computational Sciences
+### 👋 Hello there 👋 
+
+I am an Applied Mathematician working at the interface of Neuroscience, Molecular Biology and Computational Sciences
 
 I'm looking to collaborate on projects mostly in the field of Computational Neuroscience in particular using numerical methods of simulations and modelling using partial differential equations on high-performance infrastructure or mixed-compute infrastructure using GPUs. I develop numerical models for multi-scale and hybrid-dimensional problems in Applied Mathematics as well, and I am open to new challenges in the field.
 
