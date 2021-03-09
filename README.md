@@ -10,9 +10,8 @@ ___
 [![trophy](https://github-profile-trophy.vercel.app/?username=stephanmg&theme=onedark&row=1&column=7)](https://github.com/stephanmg?tab=repositories&q=&type=source&language=)
 ___
 [![stats](https://github-readme-stats.vercel.app/api?username=stephanmg&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&show_icons=true)](https://github.com/stephanmg?tab=repositories&q=&type=source&language=)
-[![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=stephanmg&langs_count=14&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/stephanmg?tab=repositories)
-<!--
-**stephanmg/stephanmg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=stephanmg&langs_count=14&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&theme=Anurag)](https://github.com/stephanmg?tab=repositories)
+
 
 Here are some ideas to get you started:
 
