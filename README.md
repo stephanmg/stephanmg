@@ -6,6 +6,8 @@ I'm looking to collaborate on projects mostly in the field of Computational Neur
 
 Contact information can be found on the left most panel - feel free to browse my recent and public projects.
 
+GPG fingerprint:  `F598 BCFF 445C C90F 3312 3C71 7D30 C7E5 7559 76A6`.
+
 ___
 [![trophy](https://github-profile-trophy.vercel.app/?username=stephanmg&theme=onedark&row=1&column=7)](https://github.com/stephanmg?tab=repositories&q=&type=source&language=)
 ___
