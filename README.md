@@ -4,7 +4,7 @@ I am an Applied Mathematician / Computational Biologist working at the interface
 
 Currently I'm gearing up for new challenges as a PostDoc in Computational Biology focusing on metaflammation. 
 
-For the past ten years I worked mostly in the field of Computational Neuroscience. In particular I employed and developed novel numerical methods for modelling and simulation of intracellular ion dynamics in neurons by using partial and ordinary differential equations (systems) on high-performance compute infrastructure heterogeneous infrastructure (CPUs and GPUs). I developed novel numerical models for multi-scale and hybrid-dimensional phenomena in Computational Neuroscience and novel mesh generation methods for the study of intracellular Calcium waves, neuronal plasticity and memory formation.
+For the past ten years I worked mostly in the field of Computational Neuroscience. In particular I employed and developed novel numerical methods for modelling and simulation of intracellular ion dynamics in neurons by using partial and ordinary differential equations (systems) on high-performance compute infrastructure and on heterogeneous infrastructure (CPUs and GPUs). I have some some experience in CUDA and shader programming. I developed novel numerical models for multi-scale and hybrid-dimensional phenomena in Computational Neuroscience and novel mesh generation methods for the study of intracellular Calcium waves, neuronal plasticity and memory formation.
 
 ## Contact
 Contact information can be found on the left most panel - feel free to browse my recent and public projects.
