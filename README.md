@@ -1,12 +1,14 @@
-### 👋 Hello there 👋 
+### 👋 Hello world! 👋 
 
-I am an Applied Mathematician working at the interface of Neuroscience, Molecular Biology and Computational Sciences
+I am an Applied Mathematician / Computational Biologist working at the interface of the Life sciences, Mathematics and Computer Science.
 
-I'm looking to collaborate on projects mostly in the field of Computational Neuroscience in particular using numerical methods of simulations and modelling using partial differential equations on high-performance infrastructure or mixed-compute infrastructure using GPUs. I develop numerical models for multi-scale and hybrid-dimensional problems in Applied Mathematics as well, and I am open to new challenges in the field.
+Currently I'm gearing up for new challenges as a PostDoc in Computational Biology focusing on metaflammation. 
+
+For the past ten years I worked mostly in the field of Computational Neuroscience. In particular I employed and developed novel numerical methods for modelling and simulation of intracellular ion dynamics in neurons by using partial and ordinary differential equations (systems) on high-performance compute infrastructure heterogeneous infrastructure (CPUs and GPUs). I developed novel numerical models for multi-scale and hybrid-dimensional phenomena in Computational Neuroscience and novel mesh generation methods for the study of intracellular Calcium waves, neuronal plasticity and memory formation.
 
 Contact information can be found on the left most panel - feel free to browse my recent and public projects.
 
-GPG fingerprint:  `F598 BCFF 445C C90F 3312 3C71 7D30 C7E5 7559 76A6`.
+For secure e-mailing find my GPG fingerprint as:  `F598 BCFF 445C C90F 3312 3C71 7D30 C7E5 7559 76A6`.
 
 ___
 [![trophy](https://github-profile-trophy.vercel.app/?username=stephanmg&theme=onedark&row=1&column=7)](https://github.com/stephanmg?tab=repositories&q=&type=source&language=)
