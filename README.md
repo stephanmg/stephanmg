@@ -1,10 +1,8 @@
-# 👋 Hello world! 👋 
+# About me
 
-I am an Applied Mathematician / Computational Biologist working at the interface of the Life sciences, Mathematics and Computer Science.
+I am a postdoctoral fellow in the [lab of Jan Hasenauer](https://www.mathematics-and-life-sciences.uni-bonn.de/de/group-members-de) where my research revolves around the interface of Life sciences, Mathematics and Computer Science. I am developing models and methods to shed light on the sophisticated metabolic network, interplay and ramifications on the level of the organism in the realm of the emerging field of metaflammation.
 
-Currently I'm gearing up for new challenges as a PostDoc in Computational Biology focusing on metaflammation. 
-
-For the past ten years I worked mostly in the field of Computational Neuroscience. In particular I employed and developed novel numerical methods for modelling and simulation of intracellular ion dynamics in neurons by using partial and ordinary differential equations (systems) on high-performance compute infrastructure and on heterogeneous infrastructure (CPUs and GPUs). I have some some experience in CUDA and shader programming for Unity. I developed novel numerical models for multi-scale and hybrid-dimensional phenomena in Computational Neuroscience and novel mesh generation methods for the study of intracellular Calcium waves, neuronal plasticity and memory formation. As Computational Neuroscience is my first love, recreational activies might focus on anything neuro-related as well occasionally and I am happy to collaborate with experimental biologists in the field of Tumour Biology and Skin Modelling. I gained some experience with Virtual Reality for Scientific Data visualization during my doctorate, mostly for neuroscientific data and graph-based large data sets.
+For the past ten years I worked mostly in the field of Computational Neuroscience. In particular I employed and developed novel numerical methods for modelling and simulation of intracellular ion dynamics in neurons by using partial and ordinary differential equations (systems) on high-performance compute infrastructure and on heterogeneous infrastructure. I have experience in CUDA and shader programming for Unity, in particular for scientific data visualization and interactive data-analysis. I developed novel numerical models for multi-scale and hybrid-dimensional phenomena in Computational Neuroscience and novel mesh generation methods for the study of intracellular Calcium waves, neuronal plasticity and memory formation. 
 
 ## Contact
 Contact information can be found on the left most panel - feel free to browse my recent and public projects.
@@ -12,7 +10,6 @@ Contact information can be found on the left most panel - feel free to browse my
 For secure e-mailing find my GPG fingerprint as:  `F598 BCFF 445C C90F 3312 3C71 7D30 C7E5 7559 76A6`.
 
 ## Trophies 
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=stephanmg&theme=onedark&row=1&column=7)](https://github.com/stephanmg?tab=repositories&q=&type=source&language=)
 
 ## Stats
