@@ -7,7 +7,8 @@ In the past I worked mostly in the field of Computational Neuroscience up to the
 ## Contact
 Contact information can be found on the left most panel - feel free to browse my recent and public projects.
 
-For secure e-mailing find my GPG fingerprint as:  `F598 BCFF 445C C90F 3312 3C71 7D30 C7E5 7559 76A6`. I'm happy to sign your key if you bring it.
+For secure e-mailing find my GPG fingerprint as:  `F598 BCFF 445C C90F 3312 3C71 7D30 C7E5 7559 76A6`. 
+I'm happy to sign your key if you bring it.
 
 ## Trophies 
 [![trophy](https://github-profile-trophy.vercel.app/?username=stephanmg&theme=onedark&row=1&column=7)](https://github.com/stephanmg?tab=repositories&q=&type=source&language=)
