@@ -10,6 +10,9 @@ I'm actively maintaining / contributing to the following repositories:
 ---
 Up to the 2020s I have been working in the field of computational neuroscience. I developed novel numerical methods and grid generation tools for modelling and simulation of spatially-resolved intracellular ion dynamics in neurons by PDEs/ODEs on HPC/HTC infrastructure. We made use of GPU programming on NVIDIA GPUs through CUDA/cg shader programming for interactively visualizing and numerical analysis of scientific data sets in the virtual reality framework Unity VR (C#). Major programming experience stems from C++/C and Lua, Java and Python. I developed prior to that also numerical models for multi-scale and hybrid-dimensional phenomena in molecular dynamics/computational neuroscience and mesh generation methods for the study of intracellular Calcium waves, neuronal plasticity and memory formation. 
 
+I have been a contributor to the following repositories:
+- https://github.com/c2m2/Neuro-VISOR/ - Virtual Interactive Simulation Of Reality for simulation of neuronal dynamics
+
 ## Contact
 Contact information can be found on the left most panel - feel free to browse my recent and public projects.
 
