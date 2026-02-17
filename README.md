@@ -19,7 +19,8 @@ Up to 2020 I have been working in the field of computational neuroscience under 
 I have been a contributor to the following repositories:
 - https://github.com/c2m2/Neuro-VISOR/ - Virtual Interactive Simulation Of Reality for simulation of neuronal dynamics
 - https://github.com/ug4 - UG4 simulation framework. Solving differential equations on unstructured finite element grids.
-- https://github.com/NeuroBox3D - A visual toolbox for simulation of neuronal activity in hybrid 1D/3D settings 
+- https://github.com/NeuroBox3D - A visual toolbox for simulation of neuronal activity in hybrid 1D/3D settings
+- https://github.com/stephanmg/VRL-SWC-Density-Vis - A Java application for density analysis of stacks of neuronal morphologies from the NeuroMorpho database
 
 You can find my works on [ResearchGate](https://www.researchgate.net/profile/Stephan-Grein).
 
