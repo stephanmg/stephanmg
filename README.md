@@ -1,8 +1,8 @@
 # About me
 
-After my postdoc stage as detailed below, I'm currently in the process of transitioning from pure academia to R&D industry. 
+After my postdoc stages as detailed below, I'm currently in the process of transitioning from pure academia to R&D industry. An excerpt of my works are showcased below.
 
-Please get in touch with me via the communication channels below, if you consider my skill set a match for your company.
+If my background and skills match your company's profile, I would be happy to connect - please reach out via the contact information below.
 
 ---
 Up to the 2026, I was a postdoctoral fellow in the [lab of Jan Hasenauer](https://www.mathematics-and-life-sciences.uni-bonn.de/en/group-members/hasenauer-group) where my research revolves around the interfaces of life sciences, mathematics and computer science. We developed mechanistic models (ODE/PDEs) and applied methods of parameter estimation in Julia/Python to calibrate models to shed light on the interplay and ramifications of dynamical biological processes in cells. Therefore we leveraged AI-tools, artificial neural networks/deep learning approaches and recent advances in bioinformatics. We developed pipelines for statistical data analysis and visualization (R/Python, Javascript/Typescript) of large-scale data sets, knowledge representation and reasoning on metadata using semantic web technologies (graph databases, SPARQL, ontologies in OWL format) focusing on reusability, repeatability and reproducibility.
