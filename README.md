@@ -1,6 +1,10 @@
 # About me
 
-After my postdoc stages as detailed below, I'm currently in the process of transitioning from pure academia to R&D industry. An excerpt of my works are showcased below. I'm mainly interested in applying novel and established mathematical tools in the field of systems biology for conducting pre-clinical and translational research in the life sciences.
+I'm an applied mathematician and completed my postdoc stages as detailed below.
+
+I'm currently aspiring to transit from pure academia to R&D industry by the end of 2026. 
+
+An excerpt of my works are showcased below. I'm mainly interested in applying novel and established mathematical tools in the field of systems biology for conducting pre-clinical and translational research in the life sciences.
 
 If my background and skills match your company's profile, I would be happy to connect - please reach out via the contact information below.
 
