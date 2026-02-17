@@ -9,8 +9,9 @@ Up to the 2026, I was a postdoctoral fellow in the [lab of Jan Hasenauer](https:
 
 I've actively maintained / contributed to the following repositories:
 - https://github.com/ICB-DCM/pyABC - a framework for distributed, likelihood-free inference
-- https://github.com/stephanmg/calorimetry - an application for analysis of indirect calorimetry datasets
+- https://github.com/stephanmg/calorimetry - a Shiny/R application for analysis of indirect calorimetry datasets
 - https://github.com/ICB-DCM/pyPESTO - a python Parameter EStimation TOolbox
+- https://github.com/stephanmg/Shiny-PWAS - a Shiny/Python application to access the ExPheWas database
 
 ---
 Up to 2020 I have been working in the field of computational neuroscience under supervision of the [Queisser lab](https://sites.temple.edu/queisser/). I developed novel numerical methods and grid generation tools for modelling and simulation of spatially-resolved intracellular ion dynamics in neurons by PDEs/ODEs on HPC/HTC infrastructure. We made use of GPU programming on NVIDIA GPUs through CUDA/cg shader programming for interactively visualizing and numerical analysis of scientific data sets in the virtual reality framework Unity VR (C#). Major programming experience stems from C++/C and Lua, Java and Python. I developed prior to that also numerical models for multi-scale and hybrid-dimensional phenomena in molecular dynamics/computational neuroscience and mesh generation methods for the study of intracellular Calcium waves, neuronal plasticity and memory formation. 
