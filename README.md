@@ -19,6 +19,8 @@ I have been a contributor to the following repositories:
 - https://github.com/c2m2/Neuro-VISOR/ - Virtual Interactive Simulation Of Reality for simulation of neuronal dynamics
 - https://github.com/ug4 - UG4 simulation framework. Solving differential equations on unstructured finite element grids.
 
+You can find my works on [ResearchGate](https://www.researchgate.net/profile/Stephan-Grein).
+
 ## Contact
 Contact information can be found on the left most panel - feel free to browse my recent and public projects.
 
