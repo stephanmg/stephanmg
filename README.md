@@ -6,7 +6,7 @@ I'm currently aspiring to transit from pure academia to R&D industry by the end 
 
 An excerpt of my works are showcased below. I'm mainly interested in applying novel and established mathematical tools in the field of systems biology for conducting pre-clinical and translational research in the life sciences.
 
-If my background and skills match your company's profile, I would be happy to connect - please reach out via the contact information below.
+If my background and skills match your company's profile, I would be happy to connect - please reach out via the contact informations.
 
 ---
 Up to mid of 2026, I am/was a postdoctoral fellow in the [lab of Jan Hasenauer](https://www.mathematics-and-life-sciences.uni-bonn.de/en/group-members/hasenauer-group) where my research revolves around the interfaces of life sciences, mathematics and computer science. We developed mechanistic models (ODE/PDEs) and applied methods of parameter estimation in Julia/Python to calibrate models and to shed light on the interplay / ramifications of dynamical biological processes in cells in the special research fields [BATenergy](https://www.trr333.uni-bonn.de/) and [Metaflammation](https://www.sfb1454-metaflammation.de/). Therefore we leveraged AI-tools, artificial neural networks/deep learning approaches and recent advances in bioinformatics on high-performance computing infrastructure. We developed pipelines for statistical data analysis and visualization (R/Python, Javascript/Typescript) of large-scale data sets, knowledge representation and reasoning on metadata using semantic web technologies (graph databases, SPARQL, ontologies in OWL format) focusing on reusability, repeatability and reproducibility. 
