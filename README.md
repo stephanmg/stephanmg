@@ -29,6 +29,7 @@ Python | R | Julia | C++ | HPC | Docker | Kubernetes | SLURM
 [ORCID](https://orcid.org/0000-0001-9524-6633)
 
 📬 Contact
+
 Contact information can be found on the left most panel - feel free to browse my recent and public projects.
 
 For secure e-mailing find my GPG fingerprint as:  `F598 BCFF 445C C90F 3312 3C71 7D30 C7E5 7559 76A6`. 
