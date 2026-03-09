@@ -1,5 +1,14 @@
 # Stephan Grein
-Applied mathematician / computational systems biologist
+Applied Mathematician | Computational Systems Biology | Scientific Software Engineer
+
+I build computational tools for mechanistic modeling, data analysis,
+and high-performance simulation in life sciences.
+
+Core areas:
+• Systems biology
+• HPC parameter estimation
+• Scientific software
+• Data analysis pipelines
 
 🔬 Research focus
 - Mechanistic modeling (ODE/PDE)
