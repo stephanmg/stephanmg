@@ -17,6 +17,7 @@ Core areas:
 - AI-assisted modeling
 
 💻 Technical stack
+
 Python | R | Julia | C++ | HPC | Docker | Kubernetes | SLURM
 
 📦 Featured projects
