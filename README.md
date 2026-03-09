@@ -1,4 +1,29 @@
-# About me
+# Stephan Grein
+Applied mathematician / computational systems biologist
+
+🔬 Research focus
+- Mechanistic modeling (ODE/PDE)
+- Systems biology & metabolic networks
+- HPC parameter estimation
+- AI-assisted modeling
+
+💻 Technical stack
+Python | R | Julia | C++ | HPC | Docker | Kubernetes | SLURM
+
+📦 Featured projects
+- Shiny-Calorie (indirect calorimetry analysis)
+- VRL-SWC-Density-Vis (neuron morphology analysis)
+- NeuroBox3D plugins
+
+📄 Publications
+[ORCID](https://orcid.org/0000-0001-9524-6633)
+
+📬 Contact
+Contact information can be found on the left most panel - feel free to browse my recent and public projects.
+
+For secure e-mailing find my GPG fingerprint as:  `F598 BCFF 445C C90F 3312 3C71 7D30 C7E5 7559 76A6`. 
+
+## The details
 
 I'm an applied mathematician and completed my postdoc stages as detailed below.
 
@@ -28,16 +53,13 @@ I have been a contributor to the following repositories:
   
 You can find my works on [ResearchGate](https://www.researchgate.net/profile/Stephan-Grein).
 
-## Contact
-Contact information can be found on the left most panel - feel free to browse my recent and public projects.
 
-For secure e-mailing find my GPG fingerprint as:  `F598 BCFF 445C C90F 3312 3C71 7D30 C7E5 7559 76A6`. 
 
-## Trophies 
+### Trophies 
 [![trophy](https://github-profile-trophy.vercel.app/?username=stephanmg&theme=onedark&row=1&column=7)](https://github.com/stephanmg?tab=repositories&q=&type=source&language=)
 
-## Stats
+### Stats
 [![stats](https://github-readme-stats.vercel.app/api?username=stephanmg&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&show_icons=true&theme=merko)](https://github.com/stephanmg?tab=repositories&q=&type=source&language=)
 
-## Languages
+### Languages
 [![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=stephanmg&langs_count=20&layout=compact&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&theme=merko)](https://github.com/stephanmg?tab=repositories)
