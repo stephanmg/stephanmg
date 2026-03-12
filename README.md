@@ -36,13 +36,11 @@ For secure e-mailing find my GPG fingerprint as:  `F598 BCFF 445C C90F 3312 3C71
 
 ## The details
 
-I'm an applied mathematician and completed my postdoc stages as detailed below.
+I am an applied mathematician who has completed postdoctoral research positions as detailed below.
 
-I'm currently aspiring to transit from pure academia to R&D industry by the end of 2026. 
+I am currently planning to transition from academia to an R&D role in industry by the end of 2026. My work focuses on applying both novel and established mathematical methods to problems in systems biology, with the goal of supporting pre-clinical and translational research in the life sciences.
 
-An excerpt of my works are showcased below. I'm mainly interested in applying novel and established mathematical tools in the field of systems biology for conducting pre-clinical and translational research in the life sciences.
-
-If my background and skills match your company's profile, I would be happy to connect - please reach out via the contact informations.
+Selected examples of my work are presented below. If my background and skills align with your organization's interests, I would be very happy to connect. Please feel free to reach out using the contact information provided.
 
 ---
 Up to mid of 2026, I am/was a postdoctoral fellow in the [lab of Jan Hasenauer](https://www.mathematics-and-life-sciences.uni-bonn.de/en/group-members/hasenauer-group) where my research revolves around the interfaces of life sciences, mathematics and computer science. We developed mechanistic models (ODE/PDEs) and applied methods of parameter estimation in Julia/Python to calibrate models and to shed light on the interplay / ramifications of dynamical biological processes in cells in the special research fields [BATenergy](https://www.trr333.uni-bonn.de/) and [Metaflammation](https://www.sfb1454-metaflammation.de/). Therefore we leveraged AI-tools, artificial neural networks/deep learning approaches and recent advances in bioinformatics on high-performance computing infrastructure. We developed pipelines for statistical data analysis and visualization (R/Python, Javascript/Typescript) of large-scale data sets, knowledge representation and reasoning on metadata using semantic web technologies (graph databases, SPARQL, ontologies in OWL format) focusing on reusability, repeatability and reproducibility. 
@@ -63,8 +61,6 @@ I have been a contributor to the following repositories:
 - https://github.com/stephanmg/VRL-SWC-Density-Vis - A Java application for density analysis of stacks of neuronal morphologies (NeuroMorpho.org)
   
 You can find my works on [ResearchGate](https://www.researchgate.net/profile/Stephan-Grein).
-
-
 
 ### Trophies 
 [![trophy](https://github-profile-trophy.vercel.app/?username=stephanmg&theme=onedark&row=1&column=7)](https://github.com/stephanmg?tab=repositories&q=&type=source&language=)
