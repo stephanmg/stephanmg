@@ -2,7 +2,7 @@
 Applied Mathematician | Computational Systems Biology | Scientific Software Engineer
 
 I build computational tools for mechanistic modeling, data analysis,
-and high-performance simulation in life sciences.
+and develop pipelines for model simulations on high-performance computers in the life sciences.
 
 Core areas:
 • Systems biology
