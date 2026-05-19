@@ -18,7 +18,7 @@ Core areas:
 
 💻 Technical stack
 
-Python | R | Julia | C++ | HPC | Docker | Kubernetes | SLURM
+Python | R | Julia | C++ | HPC | Docker | Kubernetes | SLURM | Java
 
 📦 Featured projects
 - Shiny-Calorie (indirect calorimetry analysis)
